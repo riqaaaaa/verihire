@@ -1,0 +1,9 @@
+my-search-site/
+├── netlify.toml
+├── package.json
+├── /netlify
+│   └── /functions
+│       └── search.js
+└── /public
+    ├── index.html
+    └── script.js
